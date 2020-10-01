@@ -28,3 +28,4 @@ console.log(guitar1.marca);
 console.log(guitar1.modelo);
 guitar1.solar();
 guitar1.arpejar();
+

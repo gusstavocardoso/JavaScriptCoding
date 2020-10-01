@@ -84,6 +84,7 @@ class Funcionario extends Pessoa{
         this._registro = registro;
     }
 
+    //Método sobrescrito
     imprimir_dados(){
         super.imprimir_dados()
         console.log(`Registro: ${this.registro} \nSalário: ${this.funcao.salario}`);

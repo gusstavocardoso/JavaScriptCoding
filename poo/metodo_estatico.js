@@ -20,6 +20,7 @@ class Carro{
         console.log(`${this.marca} ${this.modelo}`);
     }
 
+    //Método estático - Não precisa instânciar um objeto
     static retornar_marca(){
         return 'Honda';
     }
