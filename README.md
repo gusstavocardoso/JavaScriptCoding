@@ -1,2 +1,2 @@
 ## JavaScriptCoding
-Repositório para estudos da linguagem JavaScript
+Repositório para estudos da linguagem JavaScrip.
